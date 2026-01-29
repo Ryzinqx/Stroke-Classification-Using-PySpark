@@ -1,2 +1,2 @@
-# Stroke-Classification-Using-PySpark
-This project aims to build a stroke classification model using PySpark. The process begins with correlation analysis using Pearson method and several algorithms such as Random Forest, Gradient Boosting, Support Vector Machine, and Multilayer Perceptron are used to train the model. The model evaluation results aim to improve the accuracy of stroke risk prediction.
+# Stroke Risk Prediction using Machine Learning 
+This project aims to predict the risk of stroke health related features. The implementation is built using PySpark to handle prepocessing and model training. Multiple algorithm were explored and evaluated to identify the best performing model. The final model selection was made through comparatitve analysis and hyperparameter tuning to achieve optimal performance.
