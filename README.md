@@ -9,4 +9,5 @@ The tuned random forest model achieved the best result:
 - Recall: 96.13%
 - F1-score: 96.89%
 - ROC-AUC: 0.9689
+
 Due to class imbalance in the dataset, model evaluation focused on recall, F1-score, and ROC-AUC rather than accuracy alone.
